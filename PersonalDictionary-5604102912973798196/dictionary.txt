@@ -1,0 +1,5 @@
+# Gboard Dictionary version:1
+ol	?t=1hms	en-US
+ok	?t=2hms	en-US
+op	?t=ms	en-US
+ki	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	en-US
